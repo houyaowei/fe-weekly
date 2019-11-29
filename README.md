@@ -3,4 +3,5 @@
 <hr>
 
 
-[2019.11.22前端周报](https://github.com/houyaowei/fe-weekly/issues/1)
+[2019.11.22前端周报](https://github.com/houyaowei/fe-weekly/issues/1)<br/>
+[2019.11.29前端周报](https://github.com/houyaowei/fe-weekly/issues/2)
