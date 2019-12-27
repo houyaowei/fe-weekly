@@ -11,4 +11,6 @@
 
 [2019.12.13前端周报]([https://github.com/houyaowei/fe-weekly/issues/4](https://github.com/houyaowei/fe-weekly/issues/4)
 
+[2019.12.27前端周报]([https://github.com/houyaowei/fe-weekly/issues/5](https://github.com/houyaowei/fe-weekly/issues/5)
+
 
