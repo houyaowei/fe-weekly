@@ -6,6 +6,8 @@
 
 <h4>2020年</h4>
 
+[2020.03.06前端周报](https://github.com/houyaowei/fe-weekly/issues/10)
+
 [2020.02.07前端周报](https://github.com/houyaowei/fe-weekly/issues/9)
 
 [2020.01.17前端周报](https://github.com/houyaowei/fe-weekly/issues/8)
